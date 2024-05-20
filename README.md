@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/robbiebullough](https://github.com/robbiebullough)
 
-- 📫 You can reach me at: **robbie.bullough@icloud.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/robbie-bullough/)
+- 📫 You can reach me at: **robbie.bullough@icloud.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/robbie-bullough/)**
 
 - 🚀 I'm voracious, curious and always looking for new projects so please reach out and let's talk!
 
