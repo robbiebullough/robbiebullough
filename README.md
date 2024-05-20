@@ -22,3 +22,5 @@
     <img src="https://skillicons.dev/icons?i=ruby,rails,html,css,bootstrap,js,bash,figma,vscode,git,github,postgres,heroku" />
   </a>
 </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=robbiebullough&label=Profile%20views&color=ce9927&style=flat" alt="robbiebullough" /> </p>
